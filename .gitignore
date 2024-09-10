@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Factory-Pattern/.vs/Factory-Pattern/DesignTimeBuild/.dtbcache.v2
+/Factory-Pattern/.vs/Factory-Pattern/FileContentIndex
+/Factory-Pattern/.vs/Factory-Pattern/v17/TestStore/0
+/Factory-Pattern/.vs/Factory-Pattern/v17
+/Factory-Pattern/bin/Debug/net8.0
+/Factory-Pattern/obj
